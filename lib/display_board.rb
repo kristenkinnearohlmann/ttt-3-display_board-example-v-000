@@ -2,6 +2,5 @@
 def display_board
     entry_row = "   |   |   "
     separator_row = "-----------"
-    puts "A Tic Tac Toe Board"
     puts "#{entry_row}\n#{separator_row}\n#{entry_row}\n#{separator_row}\n#{entry_row}"
 end
